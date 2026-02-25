@@ -1,0 +1,4 @@
+# One URL per line. Lines starting with # are ignored.
+# Example (replace with real scam prevention pages):
+# https://www.example.gov.my/scam-awareness
+# https://www.example.gov.my/fraud-alerts
